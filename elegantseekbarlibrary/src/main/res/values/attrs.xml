@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ElegantSeekbar">
+
+        <attr name="maxRange" format="integer"/>
+
+        <attr name="line_color" format="color"/>
+        <attr name="base_circle_paint" format="color"/>
+        <attr name="circle_button_1_color" format="color"/>
+        <attr name="circle_button_2_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="smaller_text_size" format="dimension"/>
+        <attr name="text_color" format="color"/>
+        <attr name="smaller_text_color" format="color"/>
+        <attr name="smallerTextContent" format="string"/>
+        <attr name="circle_thickness" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <tech.pcreate.elegantseekbarlibrary.ElegantSeekbar
+        android:id="@+id/elegantSeekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:maxRange="30"
+        app:text_size="33sp"
+        app:smallerTextContent="Units"
+        app:text_color="@color/colorPrimaryDark"
+        app:smaller_text_size="23sp"
+        app:circle_thickness="15dp"
+        app:smaller_text_color="@color/colorAccent"
+        app:circle_button_1_color="@color/colorAccent"
+        app:circle_button_2_color="@color/colorPrimaryDark"
+        app:line_color="@android:color/holo_blue_dark"
+        app:base_circle_paint="@android:color/darker_gray"/>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6DC0E7</color>
+    <color name="colorPrimaryDark">#33AADF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="default_fill_color">#F75548</color>
+    <color name="default_text_color">#E91E63</color>
+    <color name="default_number_color">#C2BBC2</color>
+    <color name="default_timer_number_color">#E22727</color>
+    <color name="default_circle_2_color">#364FDD</color>
+    <color name="default_circle_1_color">#555151</color>
+    <color name="defaul_highlight_line_color">#2A43D1</color>
+</resources>
