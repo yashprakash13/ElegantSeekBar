@@ -73,7 +73,10 @@ elegantSeekbar.setCircleThickness(int thickness)
 elegantSeekbar.setSize(int pixels) //specify pixels if you need to use a size other than the default size of the seekbar
 ```
 ### Sample App
-Sample app included for your reference!
+[Sample app](https://github.com/yashprakash13/ElegantSeekBar/tree/master/app) included for your reference!
+
+### Contribute
+Feel free to open a pull request to improve this library. :)
 
 ### Like this library? Please show your support!
 <b>Buy me a Coffee!</b> 
